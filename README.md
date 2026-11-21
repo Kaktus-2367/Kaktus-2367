@@ -1,16 +1,16 @@
-## Hi there 👋
+#Привет! Я Полина (Kaktus-2367) 👋
+Начинающий аналитик данных. Люблю находить инсайды в цифрах и превращать серые данные в понятные выводы.
 
-<!--
-**Kaktus-2367/Kaktus-2367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Что умею:
+- **SQL:** PostgreSQL, сложные JOIN, оконные функции, STE.
+-  **Анализ:** сегментация(RFM), кагорный анализ, поиск аномалий.
+-  **Инструменты:** Exel(Сводные, формулы, визуализация), Git, Markdown
 
-Here are some ideas to get you started:
+## Мои проекты:
+- **[Omline Retail II](https://github.com/Kaktus-2367/-Online-Retail-II-2009-2011-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Что изучаю сейчас:
+  Python(pandas, matplotlib), чтобы автоматизировать рутину.
+
+  ---
+  Связаться можно в Telegram @exxxtersies или по почте n.polina.rus@gmail.com
