@@ -7,10 +7,10 @@
 -  **Инструменты:** Exel(Сводные, формулы, визуализация), Git, Markdown
 
 ## Мои проекты:
-- **[Omline Retail II](https://github.com/Kaktus-2367/-Online-Retail-II-2009-2011-)
+- [Omline Retail II](https://github.com/Kaktus-2367/-Online-Retail-II-2009-2011-)
 
-  ## Что изучаю сейчас:
-  Python(pandas, matplotlib), чтобы автоматизировать рутину.
+## Что изучаю сейчас:
+- Python(pandas, matplotlib), чтобы автоматизировать рутину.
 
   ---
   Связаться можно в Telegram @exxxtersies или по почте n.polina.rus@gmail.com
