@@ -7,7 +7,7 @@
 -  **Инструменты:** Exel(Сводные, формулы, визуализация), Git, Markdown
 
 ## Мои проекты:
-- [Omline Retail II](https://github.com/Kaktus-2367/-Online-Retail-II-2009-2011-)
+- [Online Retail II](https://github.com/Kaktus-2367/-Online-Retail-II-2009-2011-)
 
 ## Что изучаю сейчас:
 - Python(pandas, matplotlib), чтобы автоматизировать рутину.
